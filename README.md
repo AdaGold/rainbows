@@ -154,7 +154,7 @@ Model your array of hashes after the following:
 **TODO #2**
 Use your `rainbow` array to print out each color name in sequence.
 
-So your output could look like (or maybe something fancier):
+So your output could look like:
 
 ```
 red
